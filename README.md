@@ -25,17 +25,4 @@ Now I added almost all functionalities. Doctors can view specific appointments a
 - removePatient()
 - removeAppointment()
 
-## Tech Stack
-
-**Client:** Based on CMD
-**Database:** Text Files
-
-
-
-
-## Authors
-
-- [Hasaan Ahmad](https://www.github.com/hasaanahmad0)
-- [Ahmad Alsakaf](https://www.linkedin.com/in/muhammad-haider-31541a185/)
-- [Muhammad Haider](https://www.github.com)
 
